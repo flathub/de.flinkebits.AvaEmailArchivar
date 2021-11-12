@@ -28,7 +28,7 @@
 
     <content_rating type="oars-1.1" />
     <releases>
-      <release date="#DATE" version="#VERSION" />
+      <release date="2021-11-12" version="20211112.3" />
     </releases>
 	
     <screenshots>
